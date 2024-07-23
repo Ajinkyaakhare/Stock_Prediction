@@ -1,0 +1,1 @@
+1. read BSC csv, plot graph for Open, High, Low, close prices. 
